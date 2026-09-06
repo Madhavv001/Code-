@@ -8,3 +8,4 @@ git commit -m "Update README with deployment instructions"
 # Commit 5: Bug fixes
 git commit -m "Fix database connection pooling issues"
 docs: Add API documentation
+docs: Update architecture diagram
