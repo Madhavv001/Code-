@@ -3,3 +3,5 @@ git commit -m "Add database schema with users and messages tables"
 git commit -m "Add REST API endpoints for user authentication"
 # Commit 3: Frontend UI
 git commit -m "Implement chat UI components with Tailwind CSS"
+# Commit 4: README update
+git commit -m "Update README with deployment instructions"
