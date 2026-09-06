@@ -7,3 +7,4 @@ git commit -m "Implement chat UI components with Tailwind CSS"
 git commit -m "Update README with deployment instructions"
 # Commit 5: Bug fixes
 git commit -m "Fix database connection pooling issues"
+docs: Add API documentation
