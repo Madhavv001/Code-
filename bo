@@ -1,1 +1,3 @@
 git commit -m "Add database schema with users and messages tables"
+# Commit 2: Backend API
+git commit -m "Add REST API endpoints for user authentication"
